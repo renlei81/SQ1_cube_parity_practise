@@ -1,0 +1,1 @@
+# SQ1_cube_parity_practise
