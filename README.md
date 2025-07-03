@@ -1,1 +1,2 @@
 # SQ1_cube_parity_practise
+This is a simple tool to help SQ1er practise the CSP parity reading. The tool is still quite preliminary and needs further refinement. This is inspired by the parity training tool from Squanmate, a web for CSP learning. I have implemented functionality in the tool to record execution time and measure accuracy. A simple UI is also included in this software. You can check the latest result TSV in "D:\CSP_parity". An exe was also provided. You can modify the save_dir to change where it is saved.
